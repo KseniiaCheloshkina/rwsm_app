@@ -1,0 +1,12 @@
+torch==1.4.0
+numpy==1.16.5
+tabulate==0.8.7
+tensorflow_gpu==1.14.0
+Flask==1.1.1
+pycox==0.2.0
+tqdm==4.44.1
+lifelines==0.24.4
+matplotlib==3.1.1
+pandas==0.25.1
+scikit_learn==0.24.1
+numba==0.48
